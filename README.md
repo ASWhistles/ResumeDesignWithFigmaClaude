@@ -11,7 +11,8 @@ Figma Files Below, including icons I made with Adobe Illustrator
 ![Desktop - 2](https://github.com/user-attachments/assets/2aeb8c45-94f5-4759-a691-1aabef46448b)
 
 I wanted to start with the basics, so my prompt to Claude.ai reflects this:
-"Please help me turn this Figma esign into a website" (yes, I use manners with AI bots, just incase ;) )
+
+"Please help me turn this Figma design into a website" (yes, I use manners with AI bots, just incase ;) )
 
 This recording shows the formatting Claude.ai provided, with space to add the images:
 https://github.com/user-attachments/assets/1386bce6-b3e4-42e2-a7a4-36a2e62fb274
